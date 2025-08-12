@@ -23,4 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 unit_1/node_modules
-# unit_2/node_modules
+
+unit_2/node_modules
